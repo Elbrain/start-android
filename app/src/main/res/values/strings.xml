@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Starter pack</string>
+    <string name="welcome">Welcome to our first app, please enter your name and click the button <b>Complete</b> to continue to the next page</string>
+    <string name="complete">Complete</string>
+    <string name="name">Enter your name</string>
+    <string name="switch_txt">Test Switch</string>
+    <string name="cbox">Terms and conditions</string>
+    <string name="greetings">Hello, </string>
+    <string name="info_request">Please enter your information bellow</string>
+    <string name="result_heading">Result: </string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="submit">Submit</string>
 </resources>
